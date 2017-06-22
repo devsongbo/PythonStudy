@@ -1,0 +1,3 @@
+
+
+print("__myPack__")
